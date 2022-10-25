@@ -1,5 +1,0 @@
-resolver: lts-19.30  # Adapt this as needed
-packages:
-  - .
-extra-deps:
-  - hakyll
